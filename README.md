@@ -1,5 +1,5 @@
 # img-rpstry
-# bckdrp
+
 #### A [Hapi.js](https://hapi.dev/) API with [MongoDB](https://www.mongodb.com/).
 
 ## Documentation for this project is: [HERE](https://documenter.getpostman.com/view/14599476/UUxujARH)
